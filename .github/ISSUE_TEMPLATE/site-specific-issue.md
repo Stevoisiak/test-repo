@@ -18,11 +18,10 @@ assignees: Stevoisiak
 #### Screenshot(s):
 <!-- Provide a screenshot of the unblocked item or the non-functioning webpage -->
 
-#### System Information:
-- Operating System: [e.g. Windows 11, iOS 26.1]
-- Browser: [e.g. Firefox, Microsoft Edge, Safari]
-- Adblocker: [uBlock Origin, uBlock Origin Lite, Adguard, Brave]
+#### System Info:
+- Operating System: 
+- Internet Browser: 
+- Adblocker: 
 
-
-**Additional context**
-Add any other context about the problem here.
+#### Additional context:
+<!-- Add any other information about the problem here. -->
