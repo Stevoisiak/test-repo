@@ -1,11 +1,19 @@
-! =================
-! == ACS Courier ==
-! =================
-! -- https://www.acscourier.net/
-! AI Chat assistant
-www.acscourier.net###rasaWebchatPro
+! a
+www.example.com###rasaWebchatPro
+example.com##a
+example.com##
+example.com#
+example.com
 
+||Test
+|test
+test
+example.com##d[d]
+[d]
+
+! Comment tests
 ! aaa
  ! aaaa
    ! aaaaa
 aaa ! aaaa
+
