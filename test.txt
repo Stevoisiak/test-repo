@@ -1,3 +1,9 @@
+example.com##advert
+example.com##.advertisement
+
+
+
+
 ! a
 www.example.com###rasaWebchatPro
 example.com##a
