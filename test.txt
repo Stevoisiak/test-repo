@@ -1,7 +1,11 @@
 example.com##advert
 example.com##.advertisement
 
-
+||example.com
+||example.*
+example.*##test
+example.com##*
+example.com##te*t
 
 
 ! a
