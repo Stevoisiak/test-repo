@@ -1,0 +1,1 @@
+github.com##.prc-ButtonGroup-ButtonGroup-vFUrY:has(> div > [type="button"][href="/copilot"])
