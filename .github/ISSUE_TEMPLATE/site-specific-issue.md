@@ -1,9 +1,8 @@
 ---
-name: Site-specific issue
-about: Report an AI widget that should be blocked, or an issue with the existing filters
+name: Request a filter
+about: Report an AI item that isn't being blocked.
 title: 'NAME_OF_SITE: ISSUE_DESCRIPTION'
-labels: ''
-assignees: Stevoisiak
+labels: 'filter request'
 
 ---
 
