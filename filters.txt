@@ -1,4 +1,2 @@
 ! Title: Migration test
 ! Redirect: https://codeberg.org/Stevoisiak/test-repo/raw/branch/main/filters.txt
-
-example.com##testing
